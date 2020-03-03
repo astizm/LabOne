@@ -1,3 +1,4 @@
 # LabOne
-execution
-
+executing variables
+Journal WeekTwo 3/03/2020
+This week we're focusing on working with JavaScript. Today we looked at the way we can use and define different variable commands in JavaScript as well as how they function through JavaScript, what will or won't work, particularly when we use them within local scopes. This is all new information to me and clearly valuable when it comes to learning software development. I'm not sure what the class went over on Monday as I missed that class but it may have been useful today Luckily there were no major mis-steps today while doing these activities. We also did an activity on peer-coding, this was interesting and a helpful activity to me. It's always interesting to see the way others go about determining what information to pass on and how they communicate that, as well as the different steps they take to complete a task as well as how you can accomplish something together. This was also a really quick and easy way to introduce the var command and how to make it work. We also created accounts with CodeCombat and CodeCamp, with a particular focus on JavaScript. These both look like really valuable resources to further my knowledge of JS and codecamp in particular shall be especially valuable in expanding on my overall knowledge of software development.
